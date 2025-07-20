@@ -1,0 +1,4 @@
+addenv = MY_ENV:hello
+addenv = OTHER_VAR:world
+
+run = powershell
